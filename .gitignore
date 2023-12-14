@@ -1,0 +1,21 @@
+.DS_Store
+.env
+.env.build
+.env.staging
+.env.production
+.idea
+.venv
+*.sqlite3
+*pyc
+__pycache__
+staticfiles/
+.vscode/
+media/
+ngrok
+outdated.py
+snippet.py
+cache/
+.ipynb_checkpoints/
+
+# sonarqube
+.scannerwork/
